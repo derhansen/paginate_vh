@@ -1,6 +1,6 @@
 # TYPO3 Extension `paginate_vh`
 
-This extension just ships a ViewHelper which acts as a dropin replacement for the VieHelper `f:widget.paginate` which has been removed with TYPO3 11.
+This extension just ships a ViewHelper which acts as a dropin replacement for the ViewHelper `f:widget.paginate` which has been removed with TYPO3 11.
 
 Thanks to [in2code](https://www.in2code.de/) who created the ViewHelper and added it to [EXT:lux](https://github.com/in2code-de/luxletter).
 This extension just ships a simplified version of the ViewHelper.
